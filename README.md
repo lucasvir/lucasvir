@@ -59,7 +59,7 @@
 
 <br />
 
-[Certificações](https://cursos.alura.com.br/user/lavirmond/fullCertificate/ecfadd7e25a35fd70258f07ec755f6c2)
+[Certificações](https://cursos.alura.com.br/user/lucasvir/fullCertificate/ecfadd7e25a35fd70258f07ec755f6c2)
 
 
 <hr />
