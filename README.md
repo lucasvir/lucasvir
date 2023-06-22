@@ -2,7 +2,7 @@
 
   <center>34 anos</center>
   <br />
-  <center>Sao Paulo</center>
+  <center>São Paulo</center>
 <br />
 <br />
 
