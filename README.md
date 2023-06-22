@@ -6,7 +6,7 @@
 <br />
 <br />
 
-[@GitHub:repos](https://github.com/lucasvir?tab=repositories)
+[GitHub@repos](https://github.com/lucasvir?tab=repositories)
 
 <br />
 
@@ -20,13 +20,13 @@
 
 ### <center> ⚙ FRAMEWORKS </center>
 
-#### <center> 🔹React 🔹Next.js </center>
+#### <center> 🔹Next.js </center>
 
  <br />
 
 ### <center> 📚 LIBs </center>
 
-<center> 🔹axios  🔹knex 🔹express 🔹vite </center>
+<center> 🔹React 🔹axios  🔹knex 🔹express 🔹vite </center>
 
 <br />
 
@@ -40,21 +40,18 @@
 ## 📓 CONHECIMENTOS
 
 ### <center>Dev Soltinho - CRUD</center> [2023]
-
  <center>🔸TypeScript 🔸React 🔸Next.js,</center>
 
 <br />
 <br />
 
 ### <center>Rocketseat (Explorer)</center> [05/2022 - 08/2023]
-
 <center>🔸HTML 🔸CSS 🔸JavaScript 🔸React 🔸Node.js </center>
 
 <br />
 <br />
 
 ### <center>Alura</center> [2021/2023]
-
 <center>🔸HTML 🔸CSS 🔸JavaScript </center>
 
 <br />
