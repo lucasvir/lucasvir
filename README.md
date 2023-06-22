@@ -56,6 +56,7 @@
 ### <center>Alura</center> [2021/2023]
 
 <center>🔸HTML 🔸CSS 🔸JavaScript </center>
+
 <br />
 
 [Certificações](https://cursos.alura.com.br/user/lavirmond/fullCertificate/ecfadd7e25a35fd70258f07ec755f6c2)
