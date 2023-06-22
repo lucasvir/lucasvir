@@ -19,13 +19,13 @@
 
 ### <center> ⚙ FRAMEWORKS </center>
 
-#### <center> 🔹Next.js </center>
+#### <center> 🔹Next.js 🔹Express</center>
 
  <br />
 
 ### <center> 📚 LIBs(others) </center>
 
-<center> 🔹React 🔹axios  🔹knex 🔹express 🔹vite </center>
+<center> 🔹React 🔹axios  🔹knex  🔹vite </center>
 
 <br />
 
