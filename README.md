@@ -1,6 +1,5 @@
 # <center> Lucas do Amaral Virmond </center>
 
-  <center>34 anos</center>
   <br />
   <center>São Paulo</center>
 <br />
