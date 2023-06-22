@@ -23,7 +23,7 @@
 
  <br />
 
-### <center> 📚 LIBs </center>
+### <center> 📚 LIBs(others) </center>
 
 <center> 🔹React 🔹axios  🔹knex 🔹express 🔹vite </center>
 
