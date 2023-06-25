@@ -48,7 +48,7 @@
 <center>🔸HTML 🔸CSS 🔸JavaScript 🔸React 🔸Node.js </center>
 
 <br />
-![Certificação](https://app.rocketseat.com.br/certificates/813ddd10-fc3e-4213-ba0d-8132e2068f76)
+[Certificação](https://app.rocketseat.com.br/certificates/813ddd10-fc3e-4213-ba0d-8132e2068f76)
 
 <br />
 <br />
