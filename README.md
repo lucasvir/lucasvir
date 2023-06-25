@@ -52,7 +52,6 @@
 [Certificação](https://app.rocketseat.com.br/certificates/813ddd10-fc3e-4213-ba0d-8132e2068f76)
 
 <br />
-<br />
 
 ### <center>Alura</center> [2021/2023]
 <center>🔸HTML 🔸CSS 🔸JavaScript 🔸React  </center>
