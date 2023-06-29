@@ -64,5 +64,3 @@
 <hr />
 <br />
 <br />
-
-<center>[BASICs: Jest, PM2, JWT Token, zod ...]</center>
