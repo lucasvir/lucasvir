@@ -23,7 +23,7 @@
 
  <br />
 
-### <center> 📚 LIBs(others) </center>
+### <center> 📚 LIBs </center>
 
 <center> 🔹React 🔹axios  🔹knex  🔹vite </center>
 
@@ -36,7 +36,7 @@
 <br />
 <br />
 
-## 📓 CONHECIMENTOS
+## 📓 Estudos
 
 ### <center>Dev Soltinho - CRUD</center> [2023]
  <center>🔸TypeScript 🔸React 🔸Next.js,</center>
