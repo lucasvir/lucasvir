@@ -54,7 +54,7 @@
 <br />
 
 ### <center>Alura</center> [2021/2023]
-<center>🔸HTML 🔸CSS 🔸JavaScript 🔸React  </center>
+<center>🔸HTML 🔸CSS 🔸JavaScript 🔸React 🔸Dart  </center>
 
 <br />
 
