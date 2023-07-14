@@ -1,3 +1,4 @@
+<div align="center">
 # <center> Hi, i'm Lucas do Amaral Virmond 🙋‍♂️ </center>
 
   <br />
@@ -59,3 +60,4 @@
 <center> <a href="https://cursos.alura.com.br/user/lucasvir/fullCertificate/ecfadd7e25a35fd70258f07ec755f6c2"> Certificações</a></center>
 
 </details>
+</div>
