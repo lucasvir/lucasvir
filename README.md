@@ -1,4 +1,4 @@
-# <center> Lucas do Amaral Virmond </center>
+# <center> Hi, i'm Lucas do Amaral Virmond 🙋‍♂️ </center>
 
   <br />
   <center>São Paulo</center>
