@@ -13,9 +13,10 @@
 
 ![HTML5](./img/html5-icon.svg) ![CSS](./img/css-icon.svg) ![JavaScript](./img/js-icon.svg) ![TypeScript](./img/ts-icon.svg) ![ReactJs](./img/react-icon.svg) <img src="./img/git-icon.svg" alt="Git icon" width="40px" height="40px">
 
-<h2>🏃 Caminhada</h2>  
 <details>
+  
 <summary>
+<h2>🏃 Caminhada</h2>  
 </summary>
 
 ## <center> 💻 TECHS</center>
