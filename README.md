@@ -9,7 +9,7 @@
 
 [GitHub@repos](https://github.com/lucasvir?tab=repositories)
 
-contact: lavirmond@gmail.com
+📧 lavirmond@gmail.com
 
 <br />
 
