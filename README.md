@@ -27,37 +27,18 @@
 
 <br />
 
-### <center> ⚙ FRAMEWORKS </center>
-
-#### <center> 🔹Next.js 🔹Express</center>
-
- <br />
-
-### <center> 📚 LIBs </center>
-
-<center> 🔹React 🔹axios  🔹knex  🔹vite </center>
-
-<br />
-
-### <center> 🎨 Styles </center>
-
-<center> 🔹styled-components  🔹Sass  </center>
-
-
 ## <center>📓 Estudos</center>
 
 ### <center>Dev Soltinho - CRUD [2023]</center> 
  <center>🔸TypeScript 🔸React 🔸Next.js,</center>
 
 ### <center>Rocketseat (Explorer) [05/2022 - 08/2023]</center> 
-<center>🔸HTML 🔸CSS 🔸JavaScript 🔸React 🔸Node.js </center>
 
 <br />
 
 <center> <a href="https://app.rocketseat.com.br/certificates/813ddd10-fc3e-4213-ba0d-8132e2068f76"> Certificação</a> </center>
 
 ### <center>Alura [2021/2023] </center> 
-<center>🔸HTML 🔸CSS 🔸JavaScript 🔸React 🔸Dart  🔸Java </center>
 
 <br />
 
