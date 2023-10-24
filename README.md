@@ -1,6 +1,6 @@
 <div align="center">
   
-# <center> Lucas do Amaral Virmond 🙋‍♂️ </center>
+# <center> Lucas do Amaral Virmond </center>
 
   <br />
   <center>São Paulo</center>
