@@ -34,7 +34,7 @@
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvir&hide=prs,contribs&show_icons=true&theme=gruvbox&border_color=5b5b5b&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvir&hide=prs,contribs&show_icons=true&theme=ayu-mirage&border_color=5b5b5b&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvir&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
