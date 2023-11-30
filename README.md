@@ -3,17 +3,17 @@
 # <center> Lucas do Amaral Virmond </center>
 
   <br />
-  <center>São Paulo</center>
-<br />
-<br />
+  
+ 📧 lavirmond@gmail.com
 
-[GitHub@repos](https://github.com/lucasvir?tab=repositories)
+ <center>São Paulo, SP - Brasil</center>
 
-📧 lavirmond@gmail.com
+ <br />
 
-<br />
+ <br />
 
-[<img align="center" alt="lucasvirmond - LinkedIn" width="22px" src="./github/imgs/linkedin.png" />][linkedin]
+[<img align="center" alt="lucasvirmond - LinkedIn" width="32px" src="./img/linkedinlogo.png" />][linkedin]
+
 <br />
 
 <img align="center" alt="java badge" src="https://img.shields.io/badge/-Java-383838?logo=oracle&logoColor=F80000&style=plastic" />
@@ -29,6 +29,14 @@
 <img align="center" alt="html badge" src="https://img.shields.io/badge/-HTML5-383838?logo=html5&logoColor=E34F26&style=plastic" />
 <img align="center" alt="css badge" src="https://img.shields.io/badge/-CSS3-383838?logo=css3&logoColor=1572B6&style=plastic" />
 <img align="center" alt="linux badge" src="https://img.shields.io/badge/-Linux-383838?logo=linux&logoColor=FCC624&style=plastic" />
+
+<br />
+
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvir&hide=prs,contribs&show_icons=true&theme=gruvbox&border_color=5b5b5b&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvir&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <details>
 
@@ -57,9 +65,15 @@
 
 <center> <a href="https://www.udemy.com/certificate/UC-0d672a20-2a3e-441f-ae30-ef85422a732d/"> Certificação</a> </center>
 
-</details>
+<br />
+
+<br />
+
+--
 
 <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
+
+</details>
 </div>
 
 [linkedin]: https://www.linkedin.com/in/lucasavirmond/
