@@ -17,7 +17,7 @@
 <br />
 
 <img align="center" alt="java badge" src="https://img.shields.io/badge/-Java-383838?logo=oracle&logoColor=F80000&style=plastic" />
-<img align="center" alt="spring badge" src="https://img.shields.io/badge/-Spring%20Boot-383838?logo=springboot&style=plastic" />
+<img align="center" alt="spring badge" src="https://img.shields.io/badge/-Spring%20Framework-383838?logo=springboot&style=plastic" />
 <img align="center" alt="flyway badge" src="https://img.shields.io/badge/-Flyway-383838?logo=flyway&logoColor=red&style=plastic" />
 <img align="center" alt="junit badge" src="https://img.shields.io/badge/-JUnit-383838?logo=junit5&logoColor=25A162&style=plastic" />
 <img align="center" alt="maven badge" src="https://img.shields.io/badge/-Maven-383838?logo=apachemaven&logoColor=red&style=plastic" />
