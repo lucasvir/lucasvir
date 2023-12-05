@@ -37,7 +37,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvir&hide=prs,contribs&show_icons=true&theme=react&border_color=5b5b5b&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvir&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasvir)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -53,7 +53,7 @@
 
 <br />
 
-<center> <a href="https://cursos.alura.com.br/user/lucasvir/fullCertificate/ecfadd7e25a35fd70258f07ec755f6c2"> Certificações</a></center>
+<center> <a href="https://cursos.alura.com.br/user/lucasvir/fullCertificate/ecfadd7e25a35fd70258f07ec755f6c2"> Certificações</a> </center>
 
 
 ### <center>Rocketseat (Explorer) [05/2022 - 08/2023]</center> 
