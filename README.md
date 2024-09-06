@@ -25,7 +25,7 @@
 <!-- <img align="center" alt="postgres badge" src="https://img.shields.io/badge/-PostgresSQL-383838?logo=postgresql&logoColor=blue&style=plastic" />
 <img align="center" alt="mysql badge" src="https://img.shields.io/badge/-MySQL-383838?logo=mysql&logoColor=4479A1&style=plastic" />
 <img align="center" alt="mongo db badge" src="https://img.shields.io/badge/-Mongo%20DB-383838?logo=mongodb&logoColor=47A248&style=plastic" /> -->
-
+<img align="center" alt="node badge" src="https://img.shields.io/badge/-Node-383838?logo=node.js&style=plastic" />
 <img align="center" alt="react badge" src="https://img.shields.io/badge/-React-383838?logo=react&style=plastic" />
 <img align="center" alt="typescript badge" src="https://img.shields.io/badge/-TypeScript-383838?logo=typescript&style=plastic" />
 <img align="center" alt="html badge" src="https://img.shields.io/badge/-HTML5-383838?logo=html5&logoColor=E34F26&style=plastic" />
