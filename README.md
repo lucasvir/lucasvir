@@ -36,13 +36,13 @@
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvir&hide=prs,contribs&show_icons=true&theme=react&border_color=5b5b5b&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvir&hide=prs,contribs&show_icons=true&theme=react&border_color=5b5b5b&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasvir)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<details>
+<!-- <details>
 
 <summary>
 <h2>🏃 Caminhada</h2>  
@@ -77,7 +77,7 @@
 
 <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
 
-</details>
+</details> -->
 </div>
 
 [linkedin]: https://www.linkedin.com/in/lucasavirmond/
